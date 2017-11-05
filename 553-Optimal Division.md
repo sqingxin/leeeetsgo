@@ -26,4 +26,8 @@ Elements in the given array will be in range [2, 1000].
 There is only one optimal division for each test case.
 
 ```
+**Note:**
 
+1. The length of the input array is [1, 10].
+2. Elements in the given array will be in range [2, 1000].
+3. There is only one optimal division for each test case.
